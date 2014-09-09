@@ -1,7 +1,7 @@
 NoC-topology
 ============
 
-This repository contains a research project created for a school assignment. The project explores the optimal topology for interconnection circuitry between cores of a multicore, Network-on-a-Chip (Noc) processor.
+This repository contains a research project created for a school assignment. The project explores the optimal topology for interconnection circuitry between cores of a multicore, Network-on-a-Chip (NoC) processor.
 
 This project was implemented as a tool written in Python. Please see ***Drews\_Final\_Report.pdf*** for a detailed report of the goals, methodology, and results of this project. I received a grade of "A" for this assignment.
 
