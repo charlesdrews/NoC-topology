@@ -1,11 +1,10 @@
-NoC-topology
-============
+# NoC-topology
 
 This repository contains a research project created for a school assignment. The project explores the optimal topology for interconnection circuitry between cores of a multicore, Network-on-a-Chip (NoC) processor for a given target application being executed on that NoC processor.
 
 This project was implemented as a tool written in Python. Please see ***Drews\_Final\_Report.pdf*** for a detailed report of the goals, methodology, and results of this project. I received a grade of "A" for this assignment.
 
-###Project Contents
+### Project Contents
 
 The tool consists of three Python files:
 
@@ -28,7 +27,7 @@ The tool consists of three Python files:
   - not intended to be run directly; just a helper
 
 
-###Necessary resources
+### Necessary resources
 
 1. Multi2Sim multicore hardware simulator
   - available from [www.multi2sim.org](https://www.multi2sim.org/)
